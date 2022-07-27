@@ -1,5 +1,0 @@
-Pymaceuticals Analysis
--------------------------
-Capomulin is the most popular drug regimen among the mice tested.
-Ramicane was the most succesful drug treatment in reducing tumor size.
-While using Capomulin, tumor volume increased with average weight of mice.
