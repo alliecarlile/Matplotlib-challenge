@@ -78,6 +78,8 @@ Jupyter Notebooks
 
 Groupby
 
+For-loops
+
 Matplotlib
 
 Pyplot
